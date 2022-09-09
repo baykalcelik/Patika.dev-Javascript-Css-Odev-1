@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(241,248,245);
+}
+
+header{
+    text-align: center;
+}
+
+.navList{
+    list-style:none;
+}
+
+.navList > li{
+    display:inline;
+    width:auto;
+    margin: 1rem;
+
+}
+
+h4{
+    color:chocolate;
+}
+
+.ortala{
+    text-align: center;
+}
